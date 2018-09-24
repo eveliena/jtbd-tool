@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  interviewee: MyString
+  date: 2018-09-24
+  description: MyText
+  recording: 
+  project: one
+
+two:
+  interviewee: MyString
+  date: 2018-09-24
+  description: MyText
+  recording: 
+  project: two
